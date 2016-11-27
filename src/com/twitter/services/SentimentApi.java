@@ -11,8 +11,8 @@ import com.ibm.watson.developer_cloud.alchemy.v1.model.DocumentSentiment;
 
 public class SentimentApi {
 	public static String getSentiment(String text) {
-		String apiKey = "a63244471c6196bf2ca70dbe648b7b46219414b9";
-//		String apiKey = "47f745328c4473ffa1415d32686aaff963d8330d";
+		String apiKey = "";
+//		String apiKey = "";
 		AlchemyLanguage service = new AlchemyLanguage();
 	    service.setApiKey(apiKey);
 	    Map<String, Object> params = new HashMap<String, Object>();

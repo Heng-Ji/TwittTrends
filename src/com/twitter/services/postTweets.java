@@ -17,7 +17,7 @@ public class postTweets {
 	// HTTP POST request
 	public void sendPost(JSONObject json) throws Exception {
 
-		String url = "https://search-ccbigdata-vflc3fpahmprze34myukffb7fq.us-west-2.es.amazonaws.com/tests/t";
+		String url = "";
 		URL obj = new URL(url);
 		HttpsURLConnection con = (HttpsURLConnection) obj.openConnection();
 

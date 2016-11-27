@@ -14,13 +14,13 @@ import com.amazonaws.services.sns.model.SubscribeRequest;
 
 public class SNS {
 	private static AmazonSNSClient sns;
-	private static String topicArn = "arn:aws:sns:us-west-2:663985248606:tweetTrend";
+	private static String topicArn = "";
 	// private static String endpoint = "/topic/";
 
 	private static void createSNS() {
 		// create a new SNS client and set endpoint
 		sns = new AmazonSNSClient(
-				new BasicAWSCredentials("AKIAIX7V47DSAY3XIDJQ", "FpyDS94cXlY1/JCPI35HjyWjiTQwEI0Bx3XijHYH"));
+				new BasicAWSCredentials("", ""));
 		sns.setRegion(Region.getRegion(Regions.US_WEST_2));
 
 		// create a new SNS topic

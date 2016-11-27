@@ -15,10 +15,10 @@ import org.apache.log4j.Logger;
 import org.json.JSONObject;
 
 public class Tweets {
-	private static final String ckey = "ZlPgE73ivGdJAl3ROeNHc1RKJ";
-	private static final String csecret = "s9FyEOMOmjckzmtfuwm9Iw6NGiFk8tMxmEYllxYzC1rMd4XDVe";
-	private static final String atoken = "784480113459093504-izVnLvSy8MAE5e84tYD04WY1CCaKD4L";
-	private static final String asecret = "nhQiQaRxFrUyNLtCOjeLO7wBVx9XcvSG8OqCAtg5RhqmJ";
+	private static final String ckey = "";
+	private static final String csecret = "";
+	private static final String atoken = "";
+	private static final String asecret = "";
 	private final static Logger logger = Logger.getLogger(Class.class);
 	private static ConfigurationBuilder cb;
 	private static TwitterStream twitterStream;

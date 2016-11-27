@@ -16,7 +16,7 @@ public class getTweets {
 	// HTTP GET request
 	public static JSONArray sendGet(String keyword) throws Exception {
 
-		String url = "https://search-ccbigdata-vflc3fpahmprze34myukffb7fq.us-west-2.es.amazonaws.com/tests/_search?q=" + keyword + "&size=1000";
+		String url = "";
 		URL obj = new URL(url);
 		HttpURLConnection con = (HttpURLConnection) obj.openConnection();
 

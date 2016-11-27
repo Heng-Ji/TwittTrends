@@ -51,12 +51,12 @@ import com.amazonaws.services.sqs.model.SendMessageRequest;
  */
 public class SQS {
 	private static AmazonSQS sqs;
-	private static String myQueueUrl = "https://sqs.us-west-2.amazonaws.com/663985248606/tweet";
+	private static String myQueueUrl = "";
 	private final static Logger logger = Logger.getLogger(Class.class);
 	private static void createSQS(){
 		AWSCredentials credentials = null;
         try {
-            credentials = new BasicAWSCredentials("AKIAIX7V47DSAY3XIDJQ", "FpyDS94cXlY1/JCPI35HjyWjiTQwEI0Bx3XijHYH");
+            credentials = new BasicAWSCredentials("", "");
         } catch (Exception e) {
             throw new AmazonClientException(
                     "Cannot load the credentials from the credential profiles file. " +

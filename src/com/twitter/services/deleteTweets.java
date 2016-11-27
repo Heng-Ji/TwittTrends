@@ -7,7 +7,7 @@ import java.net.URL;
 
 public class deleteTweets {
 	private final String USER_AGENT = "Mozilla/5.0";
-	String url = "https://search-tweettrends-wnxbrrwsxh5my24vgru4yz4xvm.us-west-2.es.amazonaws.com/tests/";
+	String url = "";
 	public void cleanTweets() throws IOException {
 		URL obj = new URL(url);
 		HttpURLConnection con = (HttpURLConnection) obj.openConnection();
