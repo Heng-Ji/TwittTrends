@@ -1,0 +1,14 @@
+2016-11-16 17:26:51,328 [main] INFO  java.lang.Class - before publish{"sentiment":"POSITIVE","lag":41.37843333,"lon":-72.10466944,"text":"When Disney laughs.⠀\n⠀\n#Isaih #Acapella #ConnCollege #Library #Chappel #AcapellaChallenge #Love\u2026 https://t.co/cBlo0HR3qa","username":"mclefferson"}
+2016-11-16 17:26:51,864 [main] INFO  java.lang.Class - response code is400
+2016-11-16 17:33:30,191 [main] INFO  java.lang.Class - before publish{"sentiment":"NEGATIVE","lag":33.5114389,"lon":-82.0394459,"text":"This can't be life, this can't be love\nThis can't be right, there's gotta be more, this can't be\u2026 https://t.co/Emiv3BeOho","username":"Bigtwin79"}
+2016-11-16 17:33:30,806 [main] INFO  java.lang.Class - response code is201
+2016-11-16 17:36:01,419 [main] INFO  java.lang.Class - before publish{"sentiment":"NEGATIVE","lag":33.5114389,"lon":-82.0394459,"text":"This can't be life, this can't be love\nThis can't be right, there's gotta be more, this can't be\u2026 https://t.co/Emiv3BeOho","username":"Bigtwin79"}
+2016-11-16 17:36:01,916 [main] INFO  java.lang.Class - response code is201
+2016-11-16 17:36:02,299 [main] INFO  java.lang.Class - before publish{"sentiment":"POSITIVE","lag":29.9688449,"lon":-95.5325857,"text":"A fabulose before and after!!! I love it!!!!!! A new and young face after 10\" hair cut lol me\u2026 https://t.co/JTaB9nBClS","username":"Oscarluism_"}
+2016-11-16 17:36:02,403 [main] INFO  java.lang.Class - response code is201
+2016-11-16 17:36:02,637 [main] INFO  java.lang.Class - before publish{"sentiment":"NEGATIVE","lag":33.1978099,"lon":-117.37966,"text":"It looks like #childhood chaos but this is my vanity shelf! I love it! I can't dare put the\u2026 https://t.co/y8zQRkz93s","username":"circlelight"}
+2016-11-16 17:36:02,740 [main] INFO  java.lang.Class - response code is201
+2016-11-16 17:36:03,017 [main] INFO  java.lang.Class - before publish{"sentiment":"POSITIVE","lag":51.4993498,"lon":-0.3042322,"text":"@QuibellPaul thanks for the follow ! Would love to work with you in the future! Do you work with musicians ?","username":"missy_mcanulty"}
+2016-11-16 17:36:03,122 [main] INFO  java.lang.Class - response code is201
+2016-11-16 17:36:03,363 [main] INFO  java.lang.Class - before publish{"sentiment":"POSITIVE","lag":41.37843333,"lon":-72.10466944,"text":"When Disney laughs.⠀\n⠀\n#Isaih #Acapella #ConnCollege #Library #Chappel #AcapellaChallenge #Love\u2026 https://t.co/cBlo0HR3qa","username":"mclefferson"}
+2016-11-16 17:36:03,456 [main] INFO  java.lang.Class - response code is400
